@@ -1,0 +1,66 @@
+[
+  {
+    "id": 4,
+    "name": "Tesla Model Y",
+    "description": "Electric SUV blending performance, spacious interior, advanced tech. Family-friendly, eco-conscious, driving innovation.",
+    "score": 90,
+    "link": "https://www.tesla.com/en_us/modely",
+    "category": "cars"
+  },
+  {
+    "id": 5,
+    "name": "Honda Accord",
+    "description": "Reliable, spacious mid-size sedan offering strong performance, fuel efficiency, and advanced tech for families and commuters.",
+    "score": 90,
+    "link": "https://automobiles.honda.com/vehicles/accord",
+    "category": "cars"
+  },
+  {
+    "id": 8,
+    "name": "Tesla Model 3",
+    "description": "Electric acceleration, long range, minimalist tech, Autopilot; appeals to tech-savvy, eco-conscious drivers seeking premium value.",
+    "score": 88,
+    "link": "https://www.tesla.com/model3",
+    "category": "cars"
+  },
+  {
+    "id": 1,
+    "name": "Honda Civic",
+    "description": "Reliable, fuel-efficient, and fun-to-drive compact car. Offers strong performance, modern tech, and practicality for everyday commuters.",
+    "score": 85,
+    "link": "https://www.automotive.honda.com/civic",
+    "category": "cars"
+  },
+  {
+    "id": 3,
+    "name": "Toyota Camry",
+    "description": "Reliable, comfortable sedan for families and commuters, offering a smooth ride, efficient engines, and standard safety tech.",
+    "score": 85,
+    "link": "https://www.toyota.com/camry/",
+    "category": "cars"
+  },
+  {
+    "id": 10,
+    "name": "Ford Mustang",
+    "description": "Iconic muscle car with potent engines, thrilling performance, and a sporty design, appealing to enthusiasts seeking American automotive spirit.",
+    "score": 85,
+    "link": "https://www.ford.com/cars/mustang/",
+    "category": "cars"
+  },
+  {
+    "id": 9,
+    "name": "Toyota Tacoma",
+    "description": "Rugged V6 engine, legendary off-road capability, durable build for adventure-seekers and hardworking individuals.",
+    "score": 82,
+    "link": "https://www.toyota.com/tacoma/",
+    "category": "cars"
+  },
+  {
+    "id": 6,
+    "name": "Toyota Corolla",
+    "description": "Reliable, fuel-efficient engine, comfortable ride, and practical features make the Corolla a popular choice for everyday drivers seeking value.",
+    "score": 75,
+    "link": "https://www.toyota.com/corolla/",
+    "category": "cars"
+  }
+]

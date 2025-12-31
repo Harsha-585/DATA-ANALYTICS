@@ -1,0 +1,106 @@
+[
+  {
+    "name": "Dell XPS 13",
+    "description": "Powerful Intel CPU, integrated graphics, stunning InfinityEdge display, long battery life, ideal for productivity and everyday use.",
+    "score": 92,
+    "link": "https://www.amazon.com/Dell-XPS13-9310-i7-1165G7-16GB/dp/B08RBH99S7",
+    "id": 1,
+    "category": "laptops"
+  },
+  {
+    "name": "Apple MacBook Air",
+    "description": "Efficient M-series chip, integrated graphics, Retina display, all-day battery, perfect for everyday productivity and portability.",
+    "score": 90,
+    "link": "https://www.amazon.com/Apple-MacBook-13-inch-256GB-Storage/dp/B07P6Q5Y6R/",
+    "id": 2,
+    "category": "laptops"
+  },
+  {
+    "name": "Apple MacBook Pro",
+    "description": "Powerful CPU/GPU, stunning Retina display, all-day battery. Ideal for creative professionals and demanding tasks.",
+    "score": 90,
+    "link": "https://www.amazon.com/Apple-MacBook-Pro/s?k=Apple+MacBook+Pro",
+    "id": 3,
+    "category": "laptops"
+  },
+  {
+    "name": "Lenovothinkpad",
+    "description": "Powerful ThinkPads: robust, reliable laptops for business.  Intel CPUs, integrated GPUs, vibrant displays, exceptional battery life for productivity.",
+    "score": 90,
+    "link": "https://www.amazon.in/s?k=Lenovothinkpad",
+    "id": 4,
+    "category": "laptops"
+  },
+  {
+    "name": "Lenovolegion",
+    "description": "Legion laptops boast powerful CPUs/GPUs, vibrant high-refresh displays, long-lasting batteries, perfect for demanding gaming and creative workflows.",
+    "score": 88,
+    "link": "https://www.amazon.in/s?k=Lenovolegion",
+    "id": 5,
+    "category": "laptops"
+  },
+  {
+    "name": "Microsoft Surface Pro",
+    "description": "Powerful Intel CPU, integrated graphics, vibrant touchscreen display, all-day battery, a versatile laptop/tablet for productivity and creativity.",
+    "score": 85,
+    "link": "https://www.amazon.in/s?k=Microsoft+Surface+Pro",
+    "id": 6,
+    "category": "laptops"
+  },
+  {
+    "name": "Intelultra",
+    "description": "Intelultra: Powerful CPUs, integrated GPUs, vibrant displays, long battery life, ideal for productivity and gaming.",
+    "score": 85,
+    "link": "https://www.amazon.in/s?k=Intelultra",
+    "id": 7,
+    "category": "laptops"
+  },
+  {
+    "name": "Lenovo Legion 5",
+    "description": "Powerful CPU/GPU, vibrant high-refresh display, decent battery for gaming/creation. Your portable gaming powerhouse.",
+    "score": 85,
+    "link": "https://www.amazon.com/s?k=Lenovo+Legion+5",
+    "id": 8,
+    "category": "laptops"
+  },
+  {
+    "name": "Microsoft Surface Laptop",
+    "description": "Sleek, powerful Intel CPU/NVIDIA GPU, vibrant touchscreen, all-day battery, ideal for productivity and creative tasks.",
+    "score": 85,
+    "link": "https://www.amazon.com/stores/page/BEA136A0-9E2E-4B62-818A-1A60428AF544",
+    "id": 9,
+    "category": "laptops"
+  },
+  {
+    "name": "ASUS ZenBook",
+    "description": "Powerful Intel/AMD CPUs, integrated graphics, vibrant displays, exceptional battery life. Perfect for ultraportable productivity and creative tasks.",
+    "score": 85,
+    "link": "https://www.amazon.in/s?k=ASUS+ZenBook",
+    "id": 10,
+    "category": "laptops"
+  },
+  {
+    "name": "Microsoft Surface Pro 7",
+    "description": "Powerful Intel CPU, integrated graphics, vibrant touchscreen, all-day battery, versatile for work and creativity.",
+    "score": 78,
+    "link": "https://www.amazon.com/Microsoft-Surface-Pro-12-3-Touchscreen/dp/B07ZXT6Y23",
+    "id": 11,
+    "category": "laptops"
+  },
+  {
+    "name": "Lenovo IdeaPad Slim",
+    "description": "Sleek, powerful laptops with Intel/AMD CPUs, integrated graphics, vibrant displays, and all-day battery for everyday productivity.",
+    "score": 75,
+    "link": "https://www.amazon.com/s?k=Lenovo+IdeaPad+Slim",
+    "id": 12,
+    "category": "laptops"
+  },
+  {
+    "name": "Dell Inspiron 15",
+    "description": "Versatile Inspiron 15: Mid-range Intel/AMD CPU, integrated graphics, bright 15.6\" display, all-day battery, perfect for everyday productivity and entertainment.",
+    "score": 75,
+    "link": "https://www.amazon.com/Dell-Inspiron-15-Laptop/s?k=Dell+Inspiron+15",
+    "id": 13,
+    "category": "laptops"
+  }
+]
